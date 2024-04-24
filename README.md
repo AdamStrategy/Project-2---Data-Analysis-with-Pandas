@@ -1,1 +1,1 @@
-This is Project 2 for DS220, In this project I wrote and answered some questions on a data set about housing prices. 
+This is Project 2 for DS220, In this project, I wrote and answered some questions on a data set about housing prices. (The data can be downloaded here https://catalog.data.gov/dataset/real-estate-sales-2001-2018)
